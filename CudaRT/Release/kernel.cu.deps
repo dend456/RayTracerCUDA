@@ -1,0 +1,808 @@
+F:\programs\cuda\include\cuda_runtime.h
+f:\programs\cuda\include\host_config.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\sal.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\ConcurrencySal.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\vadefs.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\host_defines.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\limits.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\stddef.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\channel_descriptor.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\cuda_runtime_api.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\cuda_device_runtime_api.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\cuda_runtime_api.h
+f:\programs\cuda\include\driver_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\vector_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\common_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\string.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\time.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\wtime.inl
+F:\programs\Microsoft Visual Studio 11.0\VC\include\time.inl
+f:\programs\cuda\include\math_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\stdlib.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cmath
+F:\programs\Microsoft Visual Studio 11.0\VC\include\yvals.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xkeycheck.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\use_ansi.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xtgmath.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xtr1common
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cstdlib
+f:\programs\cuda\include\math_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\math_functions_dbl_ptx3.h
+f:\programs\cuda\include\math_functions_dbl_ptx3.hpp
+f:\programs\cuda\include\cuda_surface_types.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\channel_descriptor.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\cuda_texture_types.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\channel_descriptor.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\device_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\device_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\device_atomic_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\device_atomic_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\device_double_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\device_double_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_20_atomic_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_20_atomic_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_32_atomic_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_32_atomic_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_35_atomic_functions.h
+f:\programs\cuda\include\sm_32_atomic_functions.h
+f:\programs\cuda\include\sm_20_intrinsics.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_20_intrinsics.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_30_intrinsics.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_30_intrinsics.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_32_intrinsics.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_32_intrinsics.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\sm_35_intrinsics.h
+f:\programs\cuda\include\sm_32_intrinsics.h
+f:\programs\cuda\include\surface_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\cuda_surface_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\surface_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\cuda_surface_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\texture_fetch_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\cuda_texture_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\texture_fetch_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\cuda_texture_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\texture_indirect_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\texture_indirect_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\surface_indirect_functions.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\surface_indirect_functions.hpp
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+f:\programs\cuda\include\vector_functions.h
+f:\programs\cuda\include\device_launch_parameters.h
+f:\programs\cuda\include\vector_types.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Vector.h
+F:\programs\cuda\include\cuda_runtime.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Quaternion.h
+F:\programs\cuda\include\cuda_runtime.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Vector.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\structs.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Vector.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Quaternion.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\vector
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xmemory
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xmemory0
+F:\programs\Microsoft Visual Studio 11.0\VC\include\limits
+F:\programs\Microsoft Visual Studio 11.0\VC\include\ymath.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cfloat
+F:\programs\Microsoft Visual Studio 11.0\VC\include\float.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtwrn.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\climits
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cwchar
+F:\programs\Microsoft Visual Studio 11.0\VC\include\wchar.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\swprintf.inl
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xstddef
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cstddef
+F:\programs\Microsoft Visual Studio 11.0\VC\include\new
+F:\programs\Microsoft Visual Studio 11.0\VC\include\exception
+F:\programs\Microsoft Visual Studio 11.0\VC\include\eh.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\malloc.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xutility
+F:\programs\Microsoft Visual Studio 11.0\VC\include\utility
+F:\programs\Microsoft Visual Studio 11.0\VC\include\iosfwd
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cstdio
+F:\programs\Microsoft Visual Studio 11.0\VC\include\stdio.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cstring
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdbg.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\type_traits
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xrefwrap
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xatomic0.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\intrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\setjmp.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\immintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\wmmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\nmmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\smmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\tmmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\pmmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\emmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xmmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\mmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\ammintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\mm3dnow.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\mmintrin.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\stdexcept
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xstring
+F:\programs\Microsoft Visual Studio 11.0\VC\include\map
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xtree
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\fstream
+F:\programs\Microsoft Visual Studio 11.0\VC\include\istream
+F:\programs\Microsoft Visual Studio 11.0\VC\include\ostream
+F:\programs\Microsoft Visual Studio 11.0\VC\include\ios
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xlocnum
+F:\programs\Microsoft Visual Studio 11.0\VC\include\streambuf
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xiosbase
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xlocale
+F:\programs\Microsoft Visual Studio 11.0\VC\include\typeinfo
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xlocinfo
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xlocinfo.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\ctype.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\locale.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xdebug
+F:\programs\Microsoft Visual Studio 11.0\VC\include\xfacet
+F:\programs\Microsoft Visual Studio 11.0\VC\include\system_error
+F:\programs\Microsoft Visual Studio 11.0\VC\include\cerrno
+F:\programs\Microsoft Visual Studio 11.0\VC\include\errno.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\share.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\windows.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\sdkddkver.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\excpt.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\stdarg.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\windef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\driverspecs.h
+c:\program files (x86)\windows kits\8.0\include\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack2.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack8.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\processenv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\bemapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winuser.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wincon.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winver.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winreg.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\reason.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\cderr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\dde.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ddeml.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\dlgs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\lzexpand.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\shellapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winperf.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winsock.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wincrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ncrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\dpapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winefs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winscard.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.h
+c:\program files (x86)\windows kits\8.0\include\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\wtypesbase.h
+c:\program files (x86)\windows kits\8.0\include\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\winsmcrd.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winspool.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\prsht.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ole2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\objbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\cguid.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.h
+c:\program files (x86)\windows kits\8.0\include\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\urlmon.h
+c:\program files (x86)\windows kits\8.0\include\um\oleidl.h
+c:\program files (x86)\windows kits\8.0\include\um\servprov.h
+c:\program files (x86)\windows kits\8.0\include\um\msxml.h
+c:\program files (x86)\windows kits\8.0\include\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\propidl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\commdlg.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\prsht.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mcx.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\imm.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ime_cmodes.h
+G:\old\libs\common\inc\GL/glew.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/glu.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/gl.h
+G:\old\libs\common\inc\GL/freeglut.h
+g:\old\libs\common\inc\gl\freeglut_std.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\windowsx.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/gl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/glu.h
+g:\old\libs\common\inc\gl\freeglut_ext.h
+F:\programs\cuda\include\cuda.h
+F:\programs\cuda\include\cuda_runtime.h
+F:\programs\cuda\include\device_launch_parameters.h
+F:\programs\cuda\include\cuda_gl_interop.h
+f:\programs\cuda\include\builtin_types.h
+f:\programs\cuda\include\device_types.h
+f:\programs\cuda\include\driver_types.h
+f:\programs\cuda\include\surface_types.h
+f:\programs\cuda\include\texture_types.h
+f:\programs\cuda\include\vector_types.h
+f:\programs\cuda\include\host_defines.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/gl.h
+G:\old\libs\common\inc\helper_functions.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\string
+F:\programs\Microsoft Visual Studio 11.0\VC\include\iterator
+F:\programs\Microsoft Visual Studio 11.0\VC\include\assert.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+G:\old\libs\common\inc\exception.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\iostream
+F:\programs\Microsoft Visual Studio 11.0\VC\include\sstream
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\algorithm
+G:\old\libs\common\inc\helper_timer.h
+G:\old\libs\common\inc\exception.h
+G:\old\libs\common\inc\helper_string.h
+G:\old\libs\common\inc\helper_image.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\assert.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+G:\old\libs\common\inc\exception.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\math.h
+G:\old\libs\common\inc\helper_string.h
+G:\old\libs\common\inc\timer.h
+G:\old\libs\common\inc\helper_cuda.h
+G:\old\libs\common\inc\helper_string.h
+G:\old\libs\common\inc\helper_cuda_gl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/gl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/glu.h
+F:\programs\cuda\include\vector_types.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\FEClock.h
+c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\lodepng.h
+F:\programs\Microsoft Visual Studio 11.0\VC\include\random

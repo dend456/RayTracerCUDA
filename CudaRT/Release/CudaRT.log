@@ -1,0 +1,60 @@
+﻿Build started 6/9/2015 4:00:34 PM.
+     1>Project "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\CudaRT\CudaRT.vcxproj" on node 2 (Build target(s)).
+     1>AddCudaCompileDeps:
+         F:\programs\Microsoft Visual Studio 11.0\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /DWIN32 /DNDEBUG /D_CONSOLE /D_MBCS /IF:\programs\cuda\include /IF:\programs\cuda\bin /IF:\programs\cuda\include /I. /FIcuda_runtime.h /c "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\CudaRT\kernel.cu" 
+       CudaBuild:
+         Compiling CUDA source file kernel.cu...
+         cmd.exe /C "C:\Users\dan\AppData\Local\Temp\tmpe6473a82091849f28d07224324a09f4a.cmd"
+         "F:\programs\cuda\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env --cl-version 2012 -ccbin "F:\programs\Microsoft Visual Studio 11.0\VC\bin"  -IF:\programs\cuda\include -IF:\programs\cuda\include     --keep-dir Release -maxrregcount=0  --machine 32 --compile -cudart static     -DWIN32 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o Release\kernel.cu.obj "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\CudaRT\kernel.cu"
+         
+         C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\CudaRT>"F:\programs\cuda\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env --cl-version 2012 -ccbin "F:\programs\Microsoft Visual Studio 11.0\VC\bin"  -IF:\programs\cuda\include -IF:\programs\cuda\include     --keep-dir Release -maxrregcount=0  --machine 32 --compile -cudart static     -DWIN32 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o Release\kernel.cu.obj "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\CudaRT\kernel.cu" 
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(453): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1355): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1382): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1386): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1484): warning : dynamic initialization in unreachable code
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>c:\users\dan\documents\visual studio 2013\projects\cudart\cudart\Camera.h(18): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(453): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1355): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1382): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1386): warning : "Vector::Vector(Vector &)", required for copy that was eliminated, is not callable because reference parameter cannot be bound to rvalue
+     1>C:/Users/dan/Documents/Visual Studio 2013/Projects/CudaRT/CudaRT/kernel.cu(1484): warning : dynamic initialization in unreachable code
+     1>CUDACOMPILE : ptxas warning : Stack size for entry function '_Z5tracePf6CameraP5ShapeP5Lightiiiii' cannot be statically determined
+         kernel.cu
+       ClCompile:
+         F:\programs\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IF:\programs\cuda\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt FEClock.cpp lodepng.cpp
+         FEClock.cpp
+         lodepng.cpp
+     1>lodepng.cpp(356): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\programs\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>lodepng.cpp(378): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\programs\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+       Link:
+         F:\programs\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\CudaRT.exe" /NOLOGO /LIBPATH:G:\old\libs\common\lib\Win32 /LIBPATH:"F:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.5\lib\Win32" cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\CudaRT.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\CudaRT.lib" /MACHINE:X86 /SAFESEH glew32.lib Release\kernel.cu.obj
+         Release\FEClock.obj
+         Release\lodepng.obj
+         Generating code
+         Finished generating code
+         CudaRT.vcxproj -> C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\CudaRT.exe
+       PostBuildEvent:
+         echo copy "F:\programs\cuda\bin\cudart*.dll" "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\"
+         copy "F:\programs\cuda\bin\cudart*.dll" "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\"
+         :VCEnd
+         copy "F:\programs\cuda\bin\cudart*.dll" "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\Release\"
+         F:\programs\cuda\bin\cudart32_55.dll
+         F:\programs\cuda\bin\cudart32_70.dll
+         F:\programs\cuda\bin\cudart64_55.dll
+         F:\programs\cuda\bin\cudart64_70.dll
+                 4 file(s) copied.
+     1>Done Building Project "C:\Users\dan\Documents\Visual Studio 2013\Projects\CudaRT\CudaRT\CudaRT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.53

@@ -1,0 +1,17 @@
+﻿Build started 12/26/2014 12:38:46 AM.
+     1>Project "C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT\CudaRT.vcxproj" on node 2 (Build target(s)).
+     1>AddCudaCompileDeps:
+         F:\programs\Microsoft Visual Studio 11.0\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /DWIN32 /D_DEBUG /D_CONSOLE /D_MBCS /IF:\programs\cuda\include /IF:\programs\cuda\bin /IF:\programs\cuda\include /I. /FIcuda_runtime.h /c "C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT\kernel.cu" 
+       CudaBuild:
+         Compiling CUDA source file kernel.cu...
+         cmd.exe /C "C:\Users\dan\AppData\Local\Temp\tmpfbe4c9cbea614ea6b56562dc7a28207b.cmd"
+         "F:\programs\cuda\bin\nvcc.exe" -gencode=arch=compute_50,code=\"sm_50,compute_50\" --use-local-env --cl-version 2012 -ccbin "F:\programs\Microsoft Visual Studio 11.0\VC\bin"  -IF:\programs\cuda\include -IF:\programs\cuda\include  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\kernel.cu.obj "C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT\kernel.cu"
+         
+         C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT>"F:\programs\cuda\bin\nvcc.exe" -gencode=arch=compute_50,code=\"sm_50,compute_50\" --use-local-env --cl-version 2012 -ccbin "F:\programs\Microsoft Visual Studio 11.0\VC\bin"  -IF:\programs\cuda\include -IF:\programs\cuda\include  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\kernel.cu.obj "C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT\kernel.cu" 
+     1>nvcc : fatal error : Unsupported gpu architecture 'compute_50'
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\BuildCustomizations\CUDA 5.5.targets(592,9): error MSB3721: The command ""F:\programs\cuda\bin\nvcc.exe" -gencode=arch=compute_50,code=\"sm_50,compute_50\" --use-local-env --cl-version 2012 -ccbin "F:\programs\Microsoft Visual Studio 11.0\VC\bin"  -IF:\programs\cuda\include -IF:\programs\cuda\include  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\kernel.cu.obj "C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT\kernel.cu"" exited with code -1.
+     1>Done Building Project "C:\Users\dan\Documents\Visual Studio 2012\Projects\CudaRT\CudaRT\CudaRT.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.60
